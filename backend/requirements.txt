@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+a2a-sdk
+hedera-sdk-py
+passlib[bcrypt]
+cryptography
+sqlalchemy
+databases
+pydantic
+alembic
+python-multipart
