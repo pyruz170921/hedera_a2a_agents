@@ -13,3 +13,4 @@ def propose_service(agent_card_url: str, service_desc: dict):
     method = "proposal.create"
     params = {"proposal": service_desc}
     return send_a2a_message(agent_card_url, method, params)
+.
